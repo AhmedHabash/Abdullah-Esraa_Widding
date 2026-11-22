@@ -1,0 +1,10 @@
+{"timestamp":"00:00:04.239","source":"Server","level":"LOG","message":"- Cache Components enabled"}
+{"timestamp":"00:00:04.240","source":"Server","level":"LOG","message":"- Partial Prefetching enabled"}
+{"timestamp":"00:00:04.240","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:01:26.471","source":"Server","level":"LOG","message":"○ Compiling / ..."}
+{"timestamp":"00:08:24.428","source":"Server","level":"LOG","message":"✓ Compiled in 2.5s"}
+{"timestamp":"00:08:36.729","source":"Server","level":"LOG","message":"✓ Compiled in 1096ms"}
+{"timestamp":"00:08:49.168","source":"Server","level":"LOG","message":"✓ Compiled in 594ms"}
+{"timestamp":"00:09:18.609","source":"Server","level":"LOG","message":"✓ Compiled in 589ms"}
+{"timestamp":"00:17:24.854","source":"Server","level":"LOG","message":"✓ Compiled in 1728ms"}
+{"timestamp":"00:19:38.871","source":"Server","level":"LOG","message":"✓ Compiled in 1909ms"}
