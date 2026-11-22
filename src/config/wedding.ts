@@ -9,7 +9,7 @@ export const weddingConfig: WeddingConfig = {
   },
 
   bride: {
-    nameAr: "إِسْرَاء",
+    nameAr: "إِسرَاء",
     nameEn: "Esraa",
     initialAr: "إِ",
     initialEn: "E",
@@ -80,7 +80,7 @@ export const weddingConfig: WeddingConfig = {
 
   share: {
     message:
-      "يسعدنا دعوتكم لحضور حفل زفاف عَبْدُ اللهِ ومنار 💍\nالخميس ٣١ ديسمبر ٢٠٢٦ - قاعة جراند بلازا",
+      "يسعدنا دعوتكم لحضور حفل زفاف عَبْدُ اللهِ إِسرَاء 💍\nالخميس ٣١ ديسمبر ٢٠٢٦ - قاعة جراند بلازا",
   },
 
   music: {
